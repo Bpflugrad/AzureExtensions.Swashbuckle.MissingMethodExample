@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureExtensions.Swashbuckle.MissingMethodExample", "AzureExtensions.Swashbuckle.MissingMethodExample\AzureExtensions.Swashbuckle.MissingMethodExample.csproj", "{99EA5190-22D2-4D30-8A4C-979031FEFCBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99EA5190-22D2-4D30-8A4C-979031FEFCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EA5190-22D2-4D30-8A4C-979031FEFCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EA5190-22D2-4D30-8A4C-979031FEFCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EA5190-22D2-4D30-8A4C-979031FEFCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A972FD3-15E3-4C21-82FC-A1083F100894}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AzureExtensions.Swashbuckle.MissingMethodExample</name>
+    </assembly>
+    <members>
+        <member name="T:AzureExtensions.Swashbuckle.MissingMethodExample.Example">
+            <summary>
+            Example class.
+            </summary>
+        </member>
+        <member name="M:AzureExtensions.Swashbuckle.MissingMethodExample.Example.Run(Microsoft.AspNetCore.Http.HttpRequest,Microsoft.Extensions.Logging.ILogger)">
+            <summary>
+            Auto generated Function.
+            </summary>
+            <param name="req"></param>
+            <param name="log"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AzureExtensions.Swashbuckle.MissingMethodExample.Example.GetSwaggerJson(System.Net.Http.HttpRequestMessage,AzureFunctions.Extensions.Swashbuckle.ISwashBuckleClient)">
+            <summary>
+            Swagger Json
+            </summary>
+            <param name="req"></param>
+            <param name="swashBuckleClient"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AzureExtensions.Swashbuckle.MissingMethodExample.Example.GetSwaggerUi(System.Net.Http.HttpRequestMessage,AzureFunctions.Extensions.Swashbuckle.ISwashBuckleClient)">
+            <summary>
+            Swagger Ui
+            </summary>
+            <param name="req"></param>
+            <param name="swashBuckleClient"></param>
+            <returns></returns>
+        </member>
+        <member name="T:AzureExtensions.Swashbuckle.MissingMethodExample.Startup">
+            <summary>
+            Startup class.
+            </summary>
+        </member>
+        <member name="M:AzureExtensions.Swashbuckle.MissingMethodExample.Startup.Configure(Microsoft.Azure.Functions.Extensions.DependencyInjection.IFunctionsHostBuilder)">
+            <summary>
+            Configure method.
+            </summary>
+            <param name="builder"></param>
+        </member>
+    </members>
+</doc>
